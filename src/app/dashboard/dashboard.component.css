@@ -1,0 +1,31 @@
+img {
+  height: 45px;
+}
+.heading {
+  color: rgb(200, 255, 0);
+}
+mat-drawer-container,
+mat-drawer-content {
+  height: 100%;
+}
+.search-container {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(204, 190, 212);
+}
+mat-drawer {
+  width: 18%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #d5bbf7;
+  height: fit-content;
+}
+.searchbox {
+  width: 300px;
+  color: aliceblue;
+}
+.clearbutton {
+  float: right;
+}
